@@ -3,7 +3,7 @@
 **Features:**
 
 1. Supports both iPhones and Android.
-2. Application has been developed on Xcode version 10.2.1 with Swift 5 Language.
+2. Application has been developed on React Native version 0.61.5.
 
 
 **Requirements:**
